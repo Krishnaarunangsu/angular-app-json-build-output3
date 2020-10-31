@@ -1,0 +1,32 @@
+[
+    {
+        "job": 2,
+        "timestamp": "Licensed Frozen Hat",
+        "status":{
+            "status": "Incidunt et magni est ut."
+        } ,
+        "metric":{
+            "accuracy": 95.87,
+            "epoch":2,
+            "rmse":0.3
+        }
+    },
+    {
+        "job": 1,
+        "timestamp": "Licensed Frozen Hat",
+        "status":{
+            "status": "Incidunt et magni est ut."
+        } ,
+        "metric":{
+            "accuracy": 95.87,
+            "loss":0
+        }
+    },
+    {
+        "job": 1,
+        "timestamp": "Licensed Frozen Hat",
+        "status":{
+            "status": "Incidunt et magni est ut."
+        }
+    }
+]
